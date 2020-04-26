@@ -2,6 +2,7 @@ package com.fyj.myArray;
 
 /**
  * @author fyj
+ * 物理结构
  */
 public class MyArray {
     private int[] array;

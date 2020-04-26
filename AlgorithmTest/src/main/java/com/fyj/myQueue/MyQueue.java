@@ -4,6 +4,7 @@ import com.fyj.myArray.MyArray;
 
 /**
  * @author fyj
+ * 逻辑结构
  */
 public class MyQueue {
     private int[] array;

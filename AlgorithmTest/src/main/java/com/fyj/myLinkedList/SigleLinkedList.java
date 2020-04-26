@@ -2,6 +2,7 @@ package com.fyj.myLinkedList;
 
 /**
  * @author fyj
+ * 物理结构
  */
 public class SigleLinkedList {
 
